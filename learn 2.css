@@ -1,0 +1,32 @@
+#all5 H1{
+    color: #05c46b;
+    font-size: 40px;
+}
+
+#all5 h2{
+    color: #3c40c6;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+#all5 h3{
+    font-size: 25px;
+}
+
+#all5 p{
+    background-color: #ff5e57;
+    text-align: center;
+    font-size: 40px;
+}
+
+#all6{
+    text-align: center;
+    background-color: #a4b0be;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#all6 hr{
+    width: 1000px;
+    border: 1px solid black;
+}
